@@ -13,3 +13,5 @@ I'm an _enthusiasic_ computer science student who is willing to automate and dig
   
   ### More styles
   Me trying to work on more styles.
+  ![alt text](https://github.com/memo2036/Hello-World/blob/master/hello-world.webp "An image for hello world")  
+  
