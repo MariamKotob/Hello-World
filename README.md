@@ -1,6 +1,6 @@
 # Hello-World
 ##### This is my First online repository  
-I'm an _enthusiasic_ computer science `student` who is willing to automate and digitize our day to day life.  
+I'm an _enthusiasic_ computer science `student` who is willing to automate and digitize our day to day life. I'm a Machine Learning Aspirant and drawn in the world of data.
   Me learning to write ~~Correct~~ **markdown** template  
   
   https://classroom.udacity.com/courses/ud834/lessons/4034888704/concepts/42210087760923
